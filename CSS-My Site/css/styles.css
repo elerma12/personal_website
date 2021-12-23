@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+}
+
+h1{
+  margin-top: 0;
+}
+
+.top{
+  background-color: #E4f9f5;
+  height: 200px;
+  width: 200px;
+}
+
+
+.middle{
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+
+}
+
+.bottom{
+
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.pro{
+  text-decoration: underline;
+  display: none;
+}
+
+
+.mountain{
+  position: relative;
+  left:200px;
+  bottom: 200px;
+
+
+
+}
